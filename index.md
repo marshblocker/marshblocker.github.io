@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# Gabriel Kenneth L. Marinas
+## Personal Info
+* **Current Address:** 31 Dalandan St., Town and Country Executive Village, Antipolo City, Rizal
+* **Personal Number:** 0933-854-6299
+* **Official Email:** gabrielkennethmarinas@gmail.com
 
-You can use the [editor on GitHub](https://github.com/marshblocker/marshblocker.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Educational Background
+* **University of the Philippines Diliman** (Aug. 2019 - Present)
+  * Bachelor of Science in Computer Science (Current GWA: 1.2993)
+* **University of Santo Tomas Manila** (Aug. 2017 - May 2019)
+  * Senior High School Academic Track - STEM Strand (Average Grade: 90.70)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
+[Github link to projects](https://github.com/Marshblocker/projects/tree/main)
+* **CRS Seeker** | _Python_ (December 2021 - January 2022)
+  * Ranks the available courses in the pre-enlistment stage of _UP Computerized Registration System_ (CRS) 
+    based on the highest chance of getting in.
+  * Learned how to perform web scraping using _BeautifulSoup_.
+  * Able to get full units for the second semester of A.Y. 2021-2022 using this program.
+* **WordleClone** | _Rust_ (February 2022)
+  * Own implementation of _Wordle_ as a CLI app. This uses the _colored_ library to pretty-print its output.
+  * Learned how to split a large project into separate, specific modules to create an easy-to-understand and 
+    easy-to-maintain code base.
+* **QuickServer** | **C** (January 2022)
+  * A multi-threaded CLI file server that can handle concurrent file operations at blazing speed.
+  * Learned how to create multi-threaded applications, specifically in handling concurrency issues such as 
+    data races and deadlocks.
+* **Facts** | **Python** (December 2021)
+  * Displays a random fact when starting the Python interpreter.
+  * Learned how to interact with environment variables and how to create a robust build system.
 
-### Markdown
+## Activities and Awards
+* **DOST Merit Scholar** (August 2019 - Present)
+  * Part of the 13.37% of the total examinees who passed the 2019 DOST S&T Exam.
+  * Consistent recipient of the scholarship without any suspended term.
+* **UP DLRC Tutor** (November 2021 - December 2021)
+  * Created a sample exam and made corresponding solution videos as a supplementary aid for students 
+    undertaking Calculus. 
+  * Tutored around 60 undergrads who are about to take their Final Exam in Calculus through a
+    live video session.
+    
+## Technical Skills
+* **Paradigms:** Procedural, OOP, Functional
+* **Languages:** Python, C/C++, Rust, Javascript, HTML/CSS, Matlab, MIPS and x86 Assembly, LaTeX
+* **Tools:** Git, GNU toolchain, UNIX CLI utilities, VS Code, Sublime Text, MS Office Applications
+* **OS:** Windows, Linux
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marshblocker/marshblocker.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Interests
+* **Systems Programming:** 
+  * Mainly playing around with the Linux kernel and learning how it implements its scheduler, filesystem, and its 
+    other components.
+* **Video Games and Game Development:** 
+  * Single-player, RPG games such as the Souls Series and Hollow Knight. _Perhaps_ an inclination to challenging games. 
+  * Also interested in the low-level details of game development such as shaders and body simulation physics.
