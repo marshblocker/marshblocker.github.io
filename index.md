@@ -8,7 +8,7 @@
 * **University of the Philippines Diliman** (Aug. 2019 - Present)
   * Bachelor of Science in Computer Science (Current GWA: 1.2993)
 * **University of Santo Tomas Manila** (Aug. 2017 - May 2019)
-  * Senior High School Academic Track - STEM Strand (Average Grade: 90.70)
+  * Senior High School Academic Track - STEM Strand (Final Average: 90.70)
 
 ## Projects
 [Github link to projects](https://github.com/Marshblocker/projects/tree/main)
