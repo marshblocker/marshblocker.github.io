@@ -12,20 +12,20 @@
 
 ## Projects
 [Github link to projects](https://github.com/Marshblocker/projects/tree/main)
-* **CRS Seeker** | _Python_ (December 2021 - January 2022)
+* **CRS Seeker** (_Python_) | (December 2021 - January 2022)
   * Ranks the available courses in the pre-enlistment stage of _UP Computerized Registration System_ (CRS) 
     based on the highest chance of getting in.
   * Learned how to perform web scraping using _BeautifulSoup_.
   * Able to get full units for the second semester of A.Y. 2021-2022 using this program.
-* **WordleClone** | _Rust_ (February 2022)
+* **WordleClone** (_Rust_) | (February 2022)
   * Own implementation of _Wordle_ as a CLI app. This uses the _colored_ library to pretty-print its output.
   * Learned how to split a large project into separate, specific modules to create an easy-to-understand and 
     easy-to-maintain code base.
-* **QuickServer** | **C** (January 2022)
+* **QuickServer** (_C_) | (January 2022)
   * A multi-threaded CLI file server that can handle concurrent file operations at blazing speed.
   * Learned how to create multi-threaded applications, specifically in handling concurrency issues such as 
     data races and deadlocks.
-* **Facts** | **Python** (December 2021)
+* **Facts** (_Python_) | (December 2021)
   * Displays a random fact when starting the Python interpreter.
   * Learned how to interact with environment variables and how to create a robust build system.
 
