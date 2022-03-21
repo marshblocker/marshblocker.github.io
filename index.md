@@ -42,7 +42,7 @@
     
 ## Technical Skills
 * **Paradigms:** Procedural, OOP, Functional
-* **Languages:** Python, C/C++, Rust, Javascript, React, HTML/CSS, Matlab, MIPS and x86 Assembly
+* **Languages:** Python, C/C++, Rust, Javascript, React, HTML/CSS, SQL, Matlab, x86 Assembly
 * **Tools:** Git, Firebase, GNU toolchain, UNIX CLI utilities, VS Code, Sublime Text, MS Office Applications
 * **OS:** Windows, Linux
 
