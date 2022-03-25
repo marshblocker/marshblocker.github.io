@@ -6,7 +6,7 @@
 
 ## Educational Background
 * **University of the Philippines Diliman** (Aug. 2019 - Present)
-  * Bachelor of Science in Computer Science (Current GWA: 1.2993)
+  * Bachelor of Science in Computer Science (Current GWA: 1.2809)
 * **University of Santo Tomas Manila** (Aug. 2017 - May 2019)
   * Senior High School Academic Track - STEM Strand (Final Average: 90.70)
 
