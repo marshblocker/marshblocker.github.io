@@ -1,0 +1,20 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Example Lekh Site"
+theme = "lekh"
+
+[params]
+Name = "Gabriel Kenneth Mariñas"
+About = "Hi, I am a CS graduate from the University of the Philippines Diliman. I develop high-quality websites through practical use of modern technologies and basic principles. (TODO)"
+Email = "gabrielkennethmarinas@gmail.com"
+Resume = "resume.pdf" # Add the filename with file extension.
+PostLimit = 4 # Sets the number of posts to display on the front page
+GoatCounterCode = ""
+
+[[params.profiles]]
+name = "GitHub"
+url = "https://github.com/marshblocker"
+
+[[params.profiles]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/gabriel-kenneth-marinas-636aa8232/"
