@@ -5,7 +5,7 @@ theme = "lekh"
 
 [params]
 Name = "Gabriel Kenneth Mariñas"
-About = "Hi, I am a CS graduate from the University of the Philippines Diliman. I develop high-quality websites through practical use of modern technologies and basic principles. (TODO)"
+About = "Hi, I am a CS graduate from the University of the Philippines Diliman. I develop high-quality websites and I love solving problems through programs."
 Email = "gabrielkennethmarinas@gmail.com"
 Resume = "resume.pdf" # Add the filename with file extension.
 PostLimit = 4 # Sets the number of posts to display on the front page

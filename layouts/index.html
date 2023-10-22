@@ -16,7 +16,7 @@
 		<tr>
 			{{ if ne .Site.Params.Resume "" }}
 			<td><i class="fas fa-file-alt" aria-hidden="true"></i></td>
-			<td>&nbsp;<a href="/resume/{{ .Site.Params.Resume }}" target="_blank">Resume</a></td>
+			<td>&nbsp;<a href="/{{ .Site.Params.Resume }}" target="_blank">Resume</a></td>
 			{{ end }}
 		</tr>
 		<tr>
@@ -39,8 +39,23 @@
 		<br />
 		{{ end }}
 
-		<h3><a href="projects/">View all projects</a></h3>
+		<!-- <h4><a href="projects/">View all projects</a></h4> -->
 		</div>
+
+	<h3>Papers</h3>
+
+	<div>
+
+		<!-- orders content according to the "weight" field in front matter -->
+		{{ range first (.Site.Params.PostLimit | default 4) (where .Site.RegularPages.ByWeight "Section" "papers") }}
+		<div>
+			<a href="{{ .Permalink }}">{{ .Title }}</a> - {{ .Summary }}
+		</div>
+		<br />
+		{{ end }}
+	
+	</div>
+	
 	{{ if ne .Site.Params.GoatCounterCode "" }}
 	<script data-goatcounter="{{ .Site.Params.GoatCounterCode }}" async src="//gc.zgo.at/count.js"></script>
 	{{ end }}
