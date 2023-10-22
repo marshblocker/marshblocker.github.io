@@ -3,7 +3,7 @@ title = 'GBIPG'
 date = 2022-05-01
 weight = 1
 summary = 'A terminal application for generating color vision test plate from an image.'
-draft = true
+draft = false
 +++
 
 ---

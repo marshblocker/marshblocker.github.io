@@ -3,7 +3,7 @@ title = 'CRS Seeker'
 date = 2021-12-01
 weight = 3
 summary = 'A terminal application that ranks the available courses in the UP CRS website based on the chance of getting in.'
-draft = true
+draft = false
 +++
 
 ---
