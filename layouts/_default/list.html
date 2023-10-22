@@ -9,11 +9,10 @@
 
   <div>
 
-    <!-- orders content according to the "publishdate" field in front matter -->
-    {{ range .Pages.ByPublishDate }}
+    <!-- orders content according to the "weight" field in front matter -->
+    {{ range .Pages.ByWeight }}
     <div>
-      <a href="{{ .Permalink }}">{{ .Title }}</a><br />
-      <time>{{ .Date.Format "January 2, 2006" }}</time>
+      <a href="{{ .Permalink }}">{{ .Title }}</a> - {{ .Summary }}
     </div>
     <br />
     {{ end }}
