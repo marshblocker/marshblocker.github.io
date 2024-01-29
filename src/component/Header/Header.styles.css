@@ -1,0 +1,9 @@
+.Header {
+    width: 100%;
+    border-bottom: 1px solid #222;
+}
+
+.Header ul {
+    display: flex;
+    justify-content: space-around;
+}
