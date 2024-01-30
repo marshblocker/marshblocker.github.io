@@ -1,0 +1,20 @@
+.Address__listing {
+    margin: 0 auto;
+    display: flex;
+}
+
+.Address__item {
+    border-right: 1px solid var(--dark-secondary-color);
+    padding-inline: 1rem;
+    display: flex;
+    align-items: center;
+    column-gap: 0.25rem;
+}
+
+.Address__item:last-child {
+    border-right: none;
+}
+
+.Address__item img:hover {
+    opacity: 0.7;
+}

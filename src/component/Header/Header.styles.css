@@ -1,6 +1,18 @@
 .Header {
-    width: 100%;
-    border-bottom: 1px solid #222;
+    border-bottom: 1px solid var(--dark-secondary-color);
+    width: 95vw;
+    padding-block: 0.75rem;
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    font-size: 1.2em;
+    background-color: var(--dark-primary-color);
+}
+
+.Header nav {
+    width: 50vw;
 }
 
 .Header ul {
