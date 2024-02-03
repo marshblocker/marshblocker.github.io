@@ -1,14 +1,19 @@
+import { Route, Routes } from "react-router-dom";
+
 import "./App.css";
-import Header from "./component/Header/Header";
 import Home from "./module/Home/Home";
+import Layout from "./module/Layout/Layout";
+import NotFound from "./module/NotFound/NotFound";
 
 function App() {
 	return (
 		<div className="App">
-            <Header />
-            <main>
-                <Home />
-            </main>
+            <Routes>
+                <Route path="/" element={<Layout />}>
+                    <Route index element={<Home />}/>
+                    <Route path="*" element={<NotFound />} />
+                </Route>
+            </Routes>
         </div>
 	);
 }
