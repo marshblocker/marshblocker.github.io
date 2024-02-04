@@ -48,6 +48,10 @@ hr {
     border-color: var(--dark-secondary-color);
 }
 
+img {
+    border-radius: 8px;
+}
+
 /* App Styling */
 
 .App {
@@ -62,4 +66,8 @@ hr {
     font-size: 1.3em;
     font-weight: 500;
     line-height: 1.3em;
+}
+
+.italicize {
+    font-style: italic;
 }
