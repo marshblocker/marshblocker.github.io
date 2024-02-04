@@ -1,0 +1,9 @@
+.Content__header {
+    border-bottom: 1px solid var(--dark-secondary-color);
+}
+
+.Content__project-link {
+    border-top: 1px solid var(--dark-secondary-color);
+    margin-top: 1rem;
+    padding-top: 1rem;
+}
