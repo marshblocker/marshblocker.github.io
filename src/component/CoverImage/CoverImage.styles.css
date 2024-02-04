@@ -1,0 +1,9 @@
+.CoverImage__figure {
+    margin-top: 2rem;
+}
+
+.CoverImage__image {
+    margin: 0 auto;
+    width: 50vw;
+    display: block;
+}
