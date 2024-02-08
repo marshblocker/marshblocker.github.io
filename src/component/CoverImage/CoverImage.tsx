@@ -15,7 +15,7 @@ const CoverImage = ({ name, alt, width, height }: CoverImageProps) => (
         {width && height ? (
             <img
                 className="CoverImage__image"
-                src={`../../../resources/${name}`}
+                src={`/${name}`}
                 alt={alt}
                 width={width}
                 height={height}
