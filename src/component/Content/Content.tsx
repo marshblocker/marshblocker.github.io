@@ -46,6 +46,7 @@ const Content = ({
 			{body}
 			{projectLink && (
 				<section className="Content__project-link">
+					<a href={projectLink}><img width="32" height="32" src="https://img.icons8.com/glyph-neue/64/EEEEEE/github.png" alt="github"/></a>
 					<a href={projectLink}>Link to Github repository</a>
 				</section>
 			)}
