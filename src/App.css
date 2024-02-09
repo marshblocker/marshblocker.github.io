@@ -44,6 +44,10 @@ a:hover {
     opacity: 0.7;
 }
 
+i {
+    font-style: italic;
+}
+
 hr {
     border-color: var(--dark-secondary-color);
 }

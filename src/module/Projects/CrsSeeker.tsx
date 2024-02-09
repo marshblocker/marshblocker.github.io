@@ -5,17 +5,21 @@ const CrsSeeker = () => {
 	const renderBody = () => (
 		<>
 			<p>
-                A terminal application that scrapes the UP Computerized Registration
-                System (CRS) website and ranks the available courses in the pre-enlistment
-                page based on the highest chance of getting in.
+				A terminal application that scrapes the{" "}
+				<a href="https://crs.upd.edu.ph/">
+					UP Computerized Registration System
+				</a>{" "}
+				(CRS) website and ranks the available courses in the
+				pre-enlistment page based on the highest chance of getting in.
 			</p>
 			<p>
-                Built using Python, and requests and beautifulsoup library for web scraping.
+				Built using Python, and requests and beautifulsoup library for
+				web scraping.
 			</p>
 		</>
 	);
 	const { header, metadata } = PROJECTS["crs-seeker"];
-    const { title, publishDate, cover } = header;
+	const { title, publishDate, cover } = header;
 	const { projectLink } = metadata;
 
 	return (
